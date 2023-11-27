@@ -165,7 +165,7 @@ export const experiences = [
         company_name: "Manhattan College",
         icon: research,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Sept 2021 - March 2021",
         points: [
             "Integrated blockchain technology, specifically Hyperledger, into IoT devices for secure and efficient home automation systems.",
             "Improved product performance by addressing user data privacy, system security, and energy consumption using Hyperledger technology. ",
@@ -178,7 +178,7 @@ export const experiences = [
         company_name: "Barnes & Nobles",
         icon: barnes,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "Aug 2021 - May 2022",
         points: [
             "Supported the sales strategy for new and existing Mass and Specialty Channel accounts",
             "Provided administrative support including but not limited to preparing for sales presentations: running sales reports, creating custom catalogs, designing PowerPoint presentations, managing account portals, and organizing sales materials",
@@ -192,7 +192,7 @@ export const experiences = [
         company_name: "Dunkin Donuts",
         icon: dunkin ,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "June 2018 - Feb 2020",
         points: [
             "Talked employees into, through, and out of position on each shift, communicating responsibilities, providing feedback, and recognizing achievements in a respectful manner.",
             "Deployed team members appropriately to meet guests’ needs and service standards throughout shift.",
