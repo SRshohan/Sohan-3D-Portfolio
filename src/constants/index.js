@@ -165,7 +165,7 @@ export const experiences = [
         company_name: "Manhattan College",
         icon: research,
         iconBg: "#b7e4c7",
-        date: "Sept 2021 - March 2021",
+        date: "Sept 2021 - March 2022",
         points: [
             "Integrated blockchain technology, specifically Hyperledger, into IoT devices for secure and efficient home automation systems.",
             "Improved product performance by addressing user data privacy, system security, and energy consumption using Hyperledger technology. ",
