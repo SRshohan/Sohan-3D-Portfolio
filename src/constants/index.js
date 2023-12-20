@@ -232,9 +232,16 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Palidrome',
+        name: 'Palindrome',
         description: 'Introducing our Palindrome Checker, the go-to tool for verifying the symmetry of your text strings. Whether you re a linguistics enthusiast, a puzzle lover, or just curious about wordplay, this tool is designed to make checking palindromes quick and hassle-free.',
         link: 'https://github.com/SRshohan/Practice_palidrome',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Muglee AI',
+        description: 'Muglee AI is a versatile AI bot designed to process and interpret data from text files or entire directories. It efficiently provides answers based on the input data it analyzes. In future iterations, Muglee AI is set to incorporate voice recognition features, enhancing its interactivity and user experience. Additionally, it will be capable of integrating with external websites, broadening its scope beyond local directories. This functionality positions Muglee AI as a forward-thinking tool for data-driven insights and user interaction.',
+        link: 'https://github.com/SRshohan/path-to-muglee',
     },
    
 ];
