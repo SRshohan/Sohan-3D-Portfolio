@@ -128,28 +128,11 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "IT Support Engineer Intern",
-        company_name: "Teads Inc.",
-        icon: teads,
-        iconBg: "#accbe1",
-        date: "July 2023 - Present",
-        points: [
-            "Managed server room operations and maintained cabling infrastructure for optimized performance.",
-            "Safeguarded Teads' software suite by proactively identifying and resolving bugs, ensuring software stability.",
-            "Utilized Mobile Device Management (MDM) tools for seamless device operation, enhancing user productivity.",
-            "Collaborated with the team to develop and deploy efficient Bash scripts, streamlining processes, improving operational efficiency, and addressing software bugs effectively.",
-            "Configured conference rooms with IoT devices, leveraging Google Admin and Zoom Admin for automation.",
-            "Implemented zero-touch methodology with Okta integration to automate user access for Zoom meetings and collaboration.",
-            "Installed RSA certificates on Mac devices using Jamf, ensuring security and compliance."
-
-        ],
-    },
-    {
         title: "Campus IT Support and Technical Specialist",
         company_name: "Manhattan College",
         icon: mc,
         iconBg: "#fbc3bc",
-        date: "Jan 2022 - Aug 2023",
+        date: "December 2021 - Present",
         points: [
             "Ensured network devices had static IP addresses within dedicated VLANs to enhance security.",
             "Developed Python and Bash scripts for automated room checks, enhancing operational efficiency.",
@@ -161,18 +144,34 @@ export const experiences = [
         ],
     },
     {
-        title: "Research Assistant",
-        company_name: "Manhattan College",
-        icon: research,
-        iconBg: "#b7e4c7",
-        date: "Sept 2021 - March 2022",
+        title: "IT Support Engineer Intern",
+        company_name: "Teads Inc.",
+        icon: teads,
+        iconBg: "#accbe1",
+        date: "July 2023 - December 2023",
         points: [
-            "Integrated blockchain technology, specifically Hyperledger, into IoT devices for secure and efficient home automation systems.",
-            "Improved product performance by addressing user data privacy, system security, and energy consumption using Hyperledger technology. ",
-            "Developed a three-tier architecture based on Hyperledger, eliminating Proof of Work (POW) for resource efficiency in home automation. ",
-            "Ensured secure communication among devices and collectors through overlay networking within the Hyperledger framework, reducing network overhead and delay. ",
+            "Installed RSA certificates on Mac devices using Jamf to ensure security and compliance, and utilized Mobile Device Management (MDM) tools for seamless device operation, enhancing user productivity.",
+            "Collaborated with the team to develop and deploy efficient Bash scripts, streamlining processes, improving operational efficiency, and addressing software bugs effectively.",
+            "Resolved over 300 user-reported issues concerning hardware and software in a 6-month internship period, achieving a 95% satisfaction rating from feedback surveys by employing diagnostic tools and excellent problem-solving skills.",
+            "Resolved over 30 unique technical issues per day, ranging from software troubleshooting to hardware repairs, enhancing overall user satisfaction by 85% during a 6-month internship.",
+            "Resolved over 150 weekly technical support tickets, achieving a resolution rate 30% faster than company average by employing systematic troubleshooting protocols and leveraging detailed knowledge of Windows and MacOS environments.",
+            
+
         ],
     },
+    // {
+    //     title: "Research Assistant",
+    //     company_name: "Manhattan College",
+    //     icon: research,
+    //     iconBg: "#b7e4c7",
+    //     date: "Sept 2021 - March 2022",
+    //     points: [
+    //         "Integrated blockchain technology, specifically Hyperledger, into IoT devices for secure and efficient home automation systems.",
+    //         "Improved product performance by addressing user data privacy, system security, and energy consumption using Hyperledger technology. ",
+    //         "Developed a three-tier architecture based on Hyperledger, eliminating Proof of Work (POW) for resource efficiency in home automation. ",
+    //         "Ensured secure communication among devices and collectors through overlay networking within the Hyperledger framework, reducing network overhead and delay. ",
+    //     ],
+    // },
     {
         title: "Sales Associate",
         company_name: "Barnes & Nobles",
