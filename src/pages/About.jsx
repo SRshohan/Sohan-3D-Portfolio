@@ -38,10 +38,10 @@ const About = () => {
           <div className='py-16'>
             <h3 className='subhead-text'>Work Experience</h3>
             <div className="mt-5 flex flex-col gap-3 text-slate-500">
-          <p>I am an experienced Client Service Assistant with a demonstrated 
-            history of working in the higher education industry. Additionally, 
-            I have skilled in Analytical Skills, Communication, Management, Teamwork, 
-            Leadership, strong customer success and support professionally. </p>
+          <p>As an aspiring software and system architecture engineer, I am deeply passionate about crafting elegant solutions to complex problems.
+             With a foundation in building basic applications, I am driven to expand my skills and knowledge in software engineering to new heights.
+              I believe that software is not just a tool but a creative expression, and I am dedicated to honing my craft to create innovative and efficient solutions. 
+            I am excited about the endless possibilities of technology and look forward to contributing to the advancement of software engineering. </p>
           </div>
           <div className="mt-12 flex">
           <VerticalTimeline>
