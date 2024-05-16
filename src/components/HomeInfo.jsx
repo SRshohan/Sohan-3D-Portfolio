@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with IT companies <br /> and picked up many skills along the way.
+          Aspiring Software Engineer <br /> with a passion for building innovative projects!.
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
@@ -48,7 +48,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
       <p className='font-medium sm:text-xl text-center'>
-        Need a project done or looking for a dev? <br/> I'm just a few keystrokes away
+      I'm on a mission to pioneer a groundbreaking project <br/>
       </p>
 
       <Link to='/contact' className='neo-brutalism-white neo-btn'>

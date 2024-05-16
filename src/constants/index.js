@@ -211,12 +211,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/SRshohan',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/sohanur02',
     }
 ];
 
@@ -224,23 +224,23 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Automate Desktop Wallpaper Change',
-        description: 'Transform your desktop into a dynamic visual masterpiece with our Automated Desktop Wallpaper Changer. Say goodbye to static backgrounds and hello to a fresh, captivating look every day! This innovative software seamlessly integrates into your system, allowing you to enjoy a personalized and ever-changing desktop experience without any manual effort.',
-        link: 'https://github.com/SRshohan/Automate_Desktop_Wallpaper_Change',
+        name: 'Secure Web Authentication System',
+        description: 'Develop a secure web authentication system that enhances both user experience and security for professional websites.',
+        link: 'https://github.com/SRshohan/newtwork_security_project.git',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Palindrome',
-        description: 'Introducing our Palindrome Checker, the go-to tool for verifying the symmetry of your text strings. Whether you re a linguistics enthusiast, a puzzle lover, or just curious about wordplay, this tool is designed to make checking palindromes quick and hassle-free.',
-        link: 'https://github.com/SRshohan/Practice_palidrome',
+        name: 'UBOS Shell - UNIX Shell and Program Selection',
+        description:  'This project implements a custom UNIX shell interface in C++ that enables users to execute system commands and access executable programs from the current directory. The shell runs on Debian Linux, using the g++ compiler for building.',
+        link: 'https://github.com/SRshohan/Unix_Linux_Project.git',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Muglee AI',
-        description: 'Muglee AI is a versatile AI bot designed to process and interpret data from text files or entire directories. It efficiently provides answers based on the input data it analyzes. In future iterations, Muglee AI is set to incorporate voice recognition features, enhancing its interactivity and user experience. Additionally, it will be capable of integrating with external websites, broadening its scope beyond local directories. This functionality positions Muglee AI as a forward-thinking tool for data-driven insights and user interaction.',
-        link: 'https://github.com/SRshohan/path-to-muglee',
+        description: 'YouTube Transcript Interaction Dashboard',
+        link: 'https://github.com/SRshohan/youTubeChat.git',
     },
    
 ];

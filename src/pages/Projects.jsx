@@ -12,7 +12,7 @@ const Projects = () => {
     </h1>
 
     <div className="mt-5 flex flex-col gap-3 text-slate-500">
-      <p> Studying Computer Engineering at Manhattan College. Web Devlopment is my hobby </p>
+      <p> Studying Computer Engineering at Manhattan College. </p>
     </div>
     <div className='flex flex-wrap my-20 gap-16'>
         {projects.map((project) => (
