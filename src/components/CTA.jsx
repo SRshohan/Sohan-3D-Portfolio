@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ReactSVG } from 'react-svg';
+import githubIcon from '../assets/icons/github.svg'; // Adjust the path as needed
 
 const CTA = () => {
   return (
@@ -14,7 +15,7 @@ const CTA = () => {
           Contact
         </Link>
         <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer" className='github-link'>
-          <ReactSVG src="../assets/icons/github.svg" className="github-icon" />
+          <ReactSVG src={githubIcon} className="github-icon" />
         </a>
       </div>
     </section>
@@ -22,4 +23,5 @@ const CTA = () => {
 };
 
 export default CTA;
+
 
